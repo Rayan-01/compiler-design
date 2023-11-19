@@ -33,5 +33,6 @@ int main()
      {
          cout<<"The String Is Not Number"<<endl;
      }
+     cout<<c<<" Number in the string"<<endl;
     return 0;
 }
