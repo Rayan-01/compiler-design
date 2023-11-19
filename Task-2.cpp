@@ -23,7 +23,7 @@ int main()
             }
          }
      }
-     if(c==3)
+     if(c==n)
      {
         cout<<"Accepted"<<endl;
      }
@@ -42,11 +42,11 @@ int main()
 
          if(c==n)
          {
-            cout<<"No Identifier In This String"<<endl;
+            cout<<"Identifier In This String"<<endl;
          }
          else
          {
-             cout<<"Identifier In This String"<<endl;
+             cout<<"No Identifier In This String"<<endl;
          }
       }
     return 0;
